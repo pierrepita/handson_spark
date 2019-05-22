@@ -1,0 +1,144 @@
+id,cep,cidade,cpf,data_nasc,endereco,estado,mae,nome,tipo_sanguineo
+01,69304-350,Boa Vista,506.865.202-46,22/11/1965,Avenida Mario Homem de Melo,RR,Isabelle Marcia Antonella ,Felipe Bruno dos Santos,AB-
+02,78132-360,Varzea Grande,325.828.867-42,,Rua Rio Cuiaba,MT,Alana Isadora,Marcio Heitor Silveira,AB-
+03,88810-336,Criciuma,284.536.218-88,23/09/1961,Rua Romeu Lopes de Carvalho,SC,Caroline Gabriela ,Theo Mario Victor Barbosa,A-
+04,60874-405,Fortaleza,390.375.925-20,11/05/1981,,CE,Tereza Bruna ,Pietro Henrique de Paula,AB-
+05,79106-140,Campo Grande,756.005.387-40,14/12/1941,Rua Pato Branco,MS,Alice Leticia ,Kaique Thiago de Paula,A-
+06,63030-450,Juazeiro do Norte,551.341.139-39,16/02/1999,Avenida do Contorno,CE,Elena Agatha Teresinha ,Gabriel Erick Oliver da Luz,O+
+07,84172-370,Castro,756.048.583-90,11/03/1982,Rua Major Candido Cruz,,Vanessa Camila Nicole ,Luan Caue Anthony da Mota,
+08,69070-555,Manaus,386.351.591-95,13/01/1978,,AM,Isabelle Maite Rosa ,Enzo D Rocha,
+09,20950-430,Rio de Janeiro,885.264.747-31,27/01/2001,Rua do Amor,RJ,Sophie Bianca ,Cesar Matheus Caue Rodrigues,
+10,36071-020,Juiz de Fora,489.611.821-96,,Rua Flavia Rios Miranda,MG,Giovana Antonella Larissa ,Caua Isaac Castro,
+11,75063-120,Anapolis,281.229.310-14,08/11/1947,Avenida dos Palmares,GO,Mariana Mirella Natalia ,Gabriel Caua Marcos Vinicius Caldeira,
+12,78731-260,Rondonopolis,492.264.809-74,18/04/1969,Rua Circular-2,MT,Rita Ayla Sara ,Danilo Severino da Cruz,B+
+13,77818-355,,816.876.443-90,27/03/1972,Rua Aparecida,TO,Louise Joana ,Samuel Noah Lopes,O-
+14,05403-900,,327.630.596-86,10/10/1984,Avenida Doutor Eneas Carvalho de Aguiar 255,SP,Heloisa Luzia ,Juan Raimundo Osvaldo Cardoso,B+
+15,69036-075,,181.410.022-95,05/01/1973,Beco Sao Pedro II,AM,Jessica Jaqueline Flavia ,Leandro Cesar Jorge Drumond,O-
+16,40720-479,,843.458.724-64,12/09/1996,3a Travessa Osvaldo Neves,BA,Lara Sabrina Giovanna ,Caio Julio Kaue Lima,AB+
+17,65075-047,,134.836.403-39,21/06/1963,Rua Professora Laura Rosa,MA,Leticia Isabelly Stefany ,Guilherme Rafael Kevin Monteiro,A-
+18,79041-061,,557.744.519-17,09/02/1947,Rua Jacarepagua,MS,Gabriela Sueli ,Nicolas Edson Araujo,O-
+19,72236-503,,254.321.926-91,25/05/1988,Quadra EQNP 30/34 Bloco C,DF,Rita Rafaela Lara ,Cesar Nelson Daniel Britto,AB+
+20,72233-008,Brasilia,806.443.633-80,16/02/1941,Quadra QNP 20 Conjunto H,DF,Nicole Aparecida ,Rodrigo Erick Roberto Freitas,B+
+21,29908-350,,984.830.666-88,09/07/1980,Rua Argeo de Carvalho,ES,Antonella Yasmin ,Enrico Arthur Kaue da Cunha,A-
+22,69038-276,Manaus,097.294.987-92,24/12/1958,Rua 6,AM,Luzia Sara Rafaela ,Mario Kevin Baptista,O-
+23,69550-455,Tefe,949.278.899-39,10/03/2001,Travessa Porto Alegre,AM,Benedita Nair Tatiane ,Caleb Augusto Igor Barbosa,AB+
+24,57044-152,Maceio,657.324.647-00,24/06/1991,Rua Lirio,AL,Isabelly Maria Lavinia ,Jose Ian da Conceicao,B+
+25,,Valparaiso de Goias,249.678.124-57,08/09/1943,Rua 23,GO,Bruna Esther Evelyn ,Fernando Cesar Figueiredo,AB+
+26,,Varzea Grande,295.718.231-98,08/04/1966,Rua Sao Sebastiao,MT,Luzia Luciana ,Jose Caua Vicente Aragao,O-
+27,,Rio do Sul,536.503.166-09,24/07/1987,Rua Tenente Neves,SC,Isadora Lucia Joana ,Theo Sebastiao da Rosa,A-
+28,,Caieiras,735.197.681-35,17/07/1955,Rua Belem,SP,Jessica Tereza ,Breno Bruno Pinto,AB+
+29,,Canoas,797.175.014-59,11/09/1954,Rua Dezoito,RS,Stella Raimunda Sandra ,Calebe Osvaldo Barbosa,AB+
+30,,Macapa,618.880.659-31,20/03/1961,Avenida Maria Cavalcante de Azevedo Picanco,AP,Fernanda Mariah ,Miguel Francisco Matheus Galvao,AB+
+31,,Palmas,792.235.438-00,21/10/1939,Quadra 303 Sul Alameda 10,TO,Sara Benedita ,Iago Sergio da Conceicao,AB-
+32,,Macapa,288.360.031-76,22/02/2001,Passagem Rio Jari,AP,Debora Sarah ,Calebe Augusto Iago da Costa,AB+
+33,,Jaboatao dos Guararapes,155.699.916-03,17/09/1992,Rua Sao Domingos,PE,Andrea Giovanna Emily ,Bruno Ruan Luan Cardoso,O-
+34,37902-013,Passos,735.339.007-70,17/04/1960,Rua Onze de Dezembro,MG,Malu Sophia Marli ,Enzo Diogo Pinto,A-
+35,57072-276,Maceio,455.643.269-38,20/10/1940,Quadra E,AL,Daniela Isabella Isabela ,Noah Marcelo Rocha,AB+
+36,60767-645,Fortaleza,180.830.510-80,12/07/1980,Rua 18,CE,Alice Stefany ,Bernardo Antonio Almada,AB-
+37,59616-380,Mossoro,473.096.540-05,26/03/1985,Rua Luiz Fausto de Medeiros,RN,Luzia Ana Maite ,Theo Mario Raul Souza,B-
+38,69316-322,Boa Vista,985.904.206-39,03/11/1946,Rua OP-XXXIII,RR,Agatha Maite ,Paulo Joaquim Araujo,A+
+39,72275-322,Brasilia,517.088.375-74,27/01/1966,Quadra QNR 2 Area Especial 11,DF,Gabrielly Malu Vanessa ,Pietro Rafael Nassimento,O-
+40,64218-415,Parnaiba,488.380.897-10,14/04/1953,Travessa Josias de Morais Correia,PI,Sebastiana Lucia Luna ,Cesar Noah Martins,A+
+41,61637-973,Caucaia,169.848.860-23,08/05/1982,Rodovia Estruturante - CE 085, s/n Quilometro 13 Sala 8,Eloa Maria Rita ,Thomas Arthur Rocha,AB+
+42,24802-120,Itaborai,318.470.004-60,24/11/1949,Rua L,RJ,Tatiane Daiane Sara ,Kaue Cesar Moraes,O-
+43,36771-412,Cataguases,939.097.065-25,11/04/1981,Rua Jose Simeao,MG,Andreia Mariane ,Sebastiao Anderson Claudio Sales,B-
+44,83402-215,Colombo,998.958.182-70,06/01/1977,Rua Aires Fernandes da Silva,PR,Alice Marcia Flavia ,Ryan Benicio Corte Real,A-
+45,26020-115,Nova Iguacu,348.748.050-60,14/03/1982,Rua Professora Katia Batista do Carmo,RJ,Agatha Esther ,Eduardo Pietro Jose Teixeira,AB+
+46,96020-130,Pelotas,066.796.721-47,16/05/1939,Rua Alexandre Gastaud,RS,Isis Raimunda Andreia ,Martin Caio Galvao,AB-
+47,49044-010,Aracaju,213.005.833-71,04/11/1992,Rua Manoel Gratuliano dos Santos,SE,Flavia Leticia ,Marcos Nicolas Baptista,O-
+48,79900-636,Ponta Pora,758.219.979-09,22/03/1980,Rua Planalto Central,MS,Joana Cristiane Sophia ,Gustavo Levi Manoel Moura,B-
+49,77062-164,Palmas,858.666.733-12,11/05/1959,Rua Fabricio Cesar Freire,TO,Sonia Stefany Patricia ,Gabriel Geraldo Levi Sales,B+
+50,49055-610,Aracaju,046.391.337-07,27/01/1952,Rua Salgado,SE,Silvana Maya ,Manoel Luis Felipe Peixoto,AB-
+51,45002-048,Vitoria da Conquista,869.696.945-69,07/11/1945,1a Travessa da Barragem,BA,Isabelly Kamilly ,Alexandre Bruno Marcio Araujo,B-
+52,88353-509,Brusque,872.870.813-00,05/03/1992,Rua AZ - 027,SC,Rita Maa,Heitor Enzo Arthur Pinto,B-
+53,77413-785,Gurupi,145.891.596-43,21/05/1962,Rua S,TO,Ayla Claudia,Raimundo Tomas da Conceicao,AB-
+54,59600-200,Mossoro,631.466.800-09,17/10/1969,Rua Coronel Gurgel,RN,Gabrielly Melissa Kamilly ,Ricardo Igor Barros,
+55,79645-200,Tres Lagoas,159.568.299-66,24/05/1957,Rua Arapuana,MS,Melissa Louise Antonia ,Lucca Francisco Gael Oliveira,
+56,56306-270,Petrolina,875.553.057-55,13/03/1961,Rua Pio XII,PE,Valentina Tereza Benedita ,Guilherme Severino Nathan Barbosa,
+57,64600-146,Picos,055.302.287-39,04/01/1948,Avenida Nossa Senhora de Fatima,PI,Lunna Sonia Sebastiana ,Levi Heitor da Costa,AB-
+58,57039-876,Maceio,880.960.378-89,04/07/1973,Rua Sao Lucas,AL,Sophia Bruna Manuela ,,AB-
+59,69095-503,Manaus,071.707.642-37,06/06/1949,Rua Ibiraiaras,AM,Pietra Tatiane Rayssa ,,O-
+60,77064-590,Palmas,895.160.103-00,10/07/1945,Rua P 3,TO,Catarina Cristiane ,Otavio Bernardo da Mata,B+
+61,57061-310,Maceio,248.115.138-00,27/11/1939,Rua Manoel Luiz Santana,AL,Regina Alice Ana ,Erick Bryan Julio Aragao,AB+
+62,77015-466,Palmas,514.481.204-03,08/06/1959,Quadra 307 Sul Avenida LO 5,TO,Rosa Rafaela Fabiana ,Bento Kaue Gael da Mota,A-
+63,57301-100,Arapiraca,885.720.350-60,19/10/1962,Rua Professor Domingos Correia,AL,Juliana Isabelly ,Roberto Daniel Galvao,B+
+64,29164-869,Serra,571.307.021-25,05/01/1984,Rua da Macieira,ES,Pietra Sebastiana Luana ,Marcelo Benedito Porto,AB-
+65,18270-850,Tatui,506.359.495-63,27/11/1973,Praca Anselmo Pilon,SP,Elza Gabrielly ,Pietro Diego Carlos Fernandes,A+
+66,77006-712,Palmas,821.284.216-91,20/09/1955,Quadra 602 Norte Rua 8 B,TO,Raimunda Vitoria Lucia ,Erick Elias Ryan Fernandes,AB-
+67,71635-162,Brasilia,846.921.875-14,09/10/1999,Quadra SHIS QI 13 Bloco B,DF,Raquel Luiza Aurora ,Edson Sebastiao Nascimento,O-
+68,79118-580,Campo Grande,390.371.546-89,12/11/1974,Rua Sao Tomas de Aquino,MS,Juliana Jennifer ,Severino Ruan Caleb Silva,A+
+69,63100-030,Crato,081.783.955-09,10/11/1943,Rua Monsenhor Soter,CE,Vitoria Catarina Raimunda ,Anderson Gustavo Drumond,AB+
+70,76801-103,Porto Velho,227.774.367-46,01/08/1985,Rua Dom Pedro II,RO,Marina Fatima ,Davi Nelson Caldeira,O+
+71,81470-130,Curitiba,302.706.239-57,03/07/1980,Travessa Wilmar Sauner,PR,Aurora Luna ,Augusto Bruno da Rosa,A+
+72,88810-700,Criciuma,715.718.151-71,12/08/1985,Rua Maria Regina Naspolini Dal Pont,SC,Tatiane Maria Luciana ,Samuel Roberto Tiago Alves,AB-
+73,36032-006,Juiz de Fora,095.450.063-66,15/12/1965,Rua do Vale,MG,Isis Isabel Elaine ,Elias Pedro Geraldo Rezende,AB+
+74,85863-690,Foz do Iguacu,048.799.101-04,25/05/1949,Rua Joao Ayres de Aguirra,PR,Beatriz Antonella Giovana ,Henrique Elias Viana,A+
+75,76813-108,Porto Velho,724.394.945-26,18/12/1965,Rua Itatiaia,RO,Regina Marcia ,Marcio Otavio Kevin da Rosa,B-
+76,41338-100,Salvador,584.433.850-22,21/01/1989,Caminho 12-Nucleo A,BA,Pietra Manuela Marcela ,Kaue Renato Ricardo Pinto,O-
+77,85506-180,Pato Branco,948.013.865-47,24/03/1949,Rua Visconde de Guarapuava,PR,Sara Roza,Kaique Pietro Rocha,A+
+78,88051-045,Florianopolis,588.760.331-30,25/10/2001,Servidao Jorge Soares de Oliveira,SC,Carla Emily Catarina ,Gael Joaquim,A-
+79,29129-010,Vila Velha,606.841.002-15,25/12/1983,Rua Altair Rocha Costa,ES,Natalia Andreia Emily ,Iago David da Cunha,B-
+80,72315-558,Brasilia,877.344.909-13,08/11/1966,Quadra QS 517 Conjunto H,DF,Isabelle Renata Luiza ,Tiago Luan Farias,O-
+81,57040-442,Maceio,420.868.827-00,24/09/1970,7a Travessa Sao Jorge,AL,Francisca Aurora Clarice ,Manoel Julio Eduardo Silveira,B-
+82,68455-662,Tucurui,697.171.589-67,27/03/1947,Rua Piaui,PA,Alicia Gabrielly ,Fabio Elias Teixeira,B-
+83,78141-010,Varzea Grande,429.056.400-30,14/02/1980,Rua da Fe,MT,Allana Beatriz Jaqueline ,Fernando Leandro Vinicius Viana,A-
+84,57071-545,Maceio,778.488.037-59,09/12/1994,1a Travessa Sao Luiz,AL,Luciana Vera ,Kevin Mario Gabriel Sales,O-
+85,68376-735,Altamira,725.521.191-74,07/08/1948,Passagem VI,PA,Mariana Laura Isabella ,Renan Bernardo da Costa,AB-
+86,69049-410,Manaus,378.472.304-70,13/06/1990,Travessa Bernaca,AM,Debora Josefa ,Benicio Julio Alves,A-
+87,74593-500,Goiania,625.938.432-76,17/02/2000,Avenida dos Tapuias,GO,Nicoli Marcia Clarice ,Benedito Kaique Sales,O-
+88,65043-854,Sao Luis,475.612.908-02,06/11/1981,Rua Projetada,MA,Natalia Sophia Kamilly ,Filipe Otavio Noa da Matta,AB+
+89,68903-489,Macapa,823.589.295-22,22/08/1964,Ramal Eurico Gaspar,,Emanuelly Hadassa ,Rafael Noah Diego Baptista,AB-
+90,27966-714,Macae,558.220.658-21,26/01/1979,Vila Brilho da Lua,,Agatha Marli ,Lorenzo Otavio Gomes,A+
+91,72859-581,Luziania,408.365.694-82,25/03/1951,Quadra Quadra 65,,Aurora Vera Sophia ,Sebastiao Kaue da Costa,A-
+92,29114-370,Vila Velha,802.801.516-67,26/10/1940,Rua Jose Balbino,ES,Betina Agatha ,Oliver Caue da Paz,B-
+93,88372-634,Navegantes,661.445.243-63,,Rua Gerhard Schmidt,SC,Alana Lais Josefa ,Henrique Miguel Roberto da Rosa,A-
+94,72329-527,Brasilia,759.345.598-00,,Quadra QS 429 Conjunto G,DF,Simone Ananda,Heitor Eduardo Goncalves,A-
+95,72871-016,Valparaiso de Goias,779.234.407-00,,Rua 16,GO,Rafaela A Lavinia ,Lucca Miguel Diogo Galvao,AB-
+96,49072-130,Aracaju,830.124.590-57,,Rua Comandante Poti,,Adriana Kamilly ,Roberto Giovanni Calebe Porto,B+
+97,77022-440,Palmas,249.429.666-80,18/03/1950,Quadra 712 Sul Alameda 9,TO,Patricia Stefany Jennifer ,Filipe Matheus da Mota,AB+
+98,57086-152,Maceio,143.975.020-30,26/07/1949,Quadra 26,AL,Alicia Livia Sonia ,Hugo Thales Aragao,AB+
+99,58807-393,Sousa,546.506.467-66,24/10/1956,Rua Maria Jose Marques da Silva,PB,Fernanda Eliane ,Sergio Sebastiao Osvaldo Ribeiro,B+
+100,65090-677,Sao Luis,711.467.358-20,10/12/1976,Rua Lauro Jacques,MT,Daniela Fernanda ,Pedro Henrique Calebe Yuri Figueiredo,AB-
+101,75044-220,Anapolis,823.068.573-85,16/07/1977,Rua Major Ulisses Pereira da Silva,MT,Stefany Eliane ,Isaac Luiz Aparicio,AB-
+102,68906-846,Macapa,040.568.439-88,06/08/1953,Rua Chopin,RN,Eloa Fatima Tania ,Breno Danilo Silva,A-
+103,59014-227,Natal,461.427.999-69,04/09/1947,Rua Estevao Ribeiro de Mattos,RS,Silvana Analu Lara ,Fernando Mario Sales,AB-
+104,86702-790,Arapongas,423.398.060-54,14/12/1945,Caminho E - XVI,CE,Carolina Vitoria ,Pedro Henrique Diego Fernandes,A-
+105,65917-157,Imperatriz,974.659.231-90,22/02/1999,Rua Tenente Francisco Paiva,BA,Alana Valentina Antonia ,Oliver Benicio Sergio Aparicio,O+
+106,23894-586,Seropedica,629.574.715-90,14/01/1950,Avenida Doralice Evangelista de Sousa,RJ,Camila Sarah ,Cesar Filipe Peixoto,AB+
+107,79060-380,Campo Grande,535.871.894-04,09/04/1962,Travessa Oito,RS,Sueli Tereza ,Matheus Joao Iago Assuncao,A-
+108,68506-160,Maraba,874.269.918-57,08/11/1952,Rua Cearim,TO,Larissa Milena Catarina ,Noah Caleb Pietro das Neves,A+
+109,72241-555,Brasilia,840.760.458-58,06/10/1980,Rua Projetada 225,SE,Sophie Isabelly Maite ,Nicolas Henry da Costa,A+
+110,13802-488,Mogi Mirim,885.968.346-72,01/02/1994,Rua Presidente Dutra,PE,Silvana Cristiane Rosa ,Kaique Heitor N,AB-
+111,29130-172,Viana,341.311.535-99,22/04/1971,Rua Capitao Natanael Aguiar,GO,Alice Nair Rita ,Kaue Francisco Bernardes,B+
+112,88135-079,Palhoca,233.893.997-20,26/10/1959,Rua Castanheira,RO,Clarice Bruna ,Marcos Yago Lucca Aragao,O-
+113,70686-455,Brasilia,748.193.267-08,15/03/1977,Quadra EQNN 18/20 Bloco E,AM,Patricia Jennifer ,Claudio Rosa,B+
+114,69304-350,Boa Vista,442.694.244-60,20/07/1951,Rua PM - 018,AM,Sophia Louise ,Bento Luan Guilherme Monteiro,O-
+115,78132-360,Varzea Grande,563.337.623-42,14/07/1991,Rua Sao Miguel,PI,Barbara Yasmin ,Gustavo Iago Levi Galvao,AB+
+116,88810-336,Criciuma,466.803.635-86,07/09/1988,Rua Otavio Rola,MS,Cecilia Sophie ,Eduardo Nelson Melo,A-
+117,60874-405,Fortaleza,893.426.079-34,27/07/1940,Avenida 203,ES,Teresinha Vera Elisa ,Pietro Guilherme Moreira,O-
+118,79106-140,Campo Grande,728.882.048-35,10/10/1984,Avenida Doutor Eneas Carvalho de Aguiar 255,RR,Luciana Laura Juliana ,Gabriel Erick Oliver da Luz,AB+
+119,63030-450,Juazeiro do Norte,869.696.945-69,05/01/1973,Beco Sao Pedro II,MA,Louise Sarah Tereza ,Luan Caue Anthony da Mota,B+
+120,84172-370,Castro,872.870.813-00,12/09/1996,3a Travessa Osvaldo Neves,MA,Sophia Rafaela Silvana ,Enzo Diego Rocha,O+
+121,54360-159,Jaboatao dos Guararapes,155.699.916-03,21/06/1963,Rua Professora Laura Rosa,PA,Liz Nicole ,Cesar Matheus Caue Rodrigues,AB+
+122,37902-013,Passos,735.339.007-70,09/02/1947,Rua Jacarepagua,AC,Simone Heloisa ,Caua Isaac Castro,A-
+123,57072-276,Maceio,455.643.269-38,25/05/1988,Quadra EQNP 30/34 Bloco C,CE,Sophie Elza ,Gabriel Caua Marcos Vinicius Caldeira,O+
+124,60767-645,Fortaleza,180.830.510-80,16/02/1941,Quadra QNP 20 Conjunto H,AL,Sabrina Tania Adriana ,Danilo Severino da Cruz,AB+
+125,59616-380,Mossoro,473.096.540-05,09/07/1980,Rua Argeo de Carvalho,SE,Luana Louise ,Samuel Noah Lopes,O-
+126,69316-322,Boa Vista,985.904.206-39,24/12/1958,Rua 6,SP,Jaqueline Olivia ,Juan Raimundo Osvaldo Cardoso,A-
+127,72275-322,Brasilia,517.088.375-74,10/03/2001,Travessa Porto Alegre,SP,Ana Ayla ,Leandro Cesar Jorge Drumond,AB+
+128,64218-415,Parnaiba,488.380.897-10,24/06/1991,Rua Lirio,SE,Eloa Jessica Stefany ,Caio Julio Kaue Lima,AB+
+129,61637-973,Caucaia,169.848.860-23,08/09/1943,Rua 23,AL,Cecilia Joana ,Guilherme Rafael Kevin Monteiro,AB+
+130,24802-120,Itaborai,318.470.004-60,08/04/1966,Rua Sao Sebastiao,AP,Evelyn Isis ,Nicolas Edson Araujo,AB-
+131,36771-412,Cataguases,939.097.065-25,24/07/1987,Rua Tenente Neves,PI,Eliane Antonia Cecilia ,Cesar Nelson Daniel Brito,AB-
+132,83402-215,Colombo,998.958.182-70,17/07/1955,Rua Belem,DF,Fatima Isabela Regina ,Rodrigo Erick Roberto Freitas,O-
+133,26020-115,Nova Iguacu,348.748.050-60,11/09/1954,Rua Dezoito,SP,Maya Sara Isabela ,Enrico Arthur Kaue da Cunha,AB-
+134,96020-130,Pelotas,066.796.721-47,20/03/1961,Avenida Maria Cavalcante de Azevedo Picanco,BA,Emily Jessica ,Martin Benjamin Jesus,B+
+135,49044-010,Aracaju,213.005.833-71,21/10/1939,Quadra 303 Sul Alameda 10,GO,Rosa Ayla Alicia ,Marcos Raimundo Rocha,AB-
+136,79900-636,Ponta Pora,758.219.979-09,07/02/1998,Rua Matias Vasconcelos da Costa,PR,Vitoria Antonella ,Hugo Marcio Igor Silva,B-
+137,77062-164,Palmas,858.666.733-12,23/03/1983,Rua Lobo da Costa,SP,Rita Louise ,Vinicius Kaue Nascimento,A+
+138,49055-610,Aracaju,046.391.337-07,03/05/1954,Rua Jose Alves Pontes,AP,Regina Gabriela Analu ,Heitor Leonardo Calebe Ferreira,O-
+139,45002-048,Vitoria da Conquista,869.696.945-69,17/12/1988,Rua Virgilio Ferreira,AC,Rayssa Benedita Manuela ,Gael Tomas Thiago Campos,A+
+140,88353-509,Brusque,872.870.813-00,11/08/1969,Rua Emiliano Perneta,PE,Yasmin Renata ,Tomas Caua Martins,AB+
+141,77413-785,Gurupi,145.891.596-43,10/02/1967,Rua 6A,PI,Hadassa Maya Elza ,Leonardo Fabio de Paula,O-
+142,59600-200,Mossoro,631.466.800-09,11/01/1955,Avenida Rouxinol,CE,Cristiane Manuela ,Roberto Heitor Farias,B-
+143,79645-200,Tres Lagoas,159.568.299-66,07/03/1977,Rua Projetada Um,PE,Livia Sandra Sueli ,Francisco Jorge Raimundo Freitas,A-
